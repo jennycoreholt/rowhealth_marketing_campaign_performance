@@ -6,7 +6,7 @@ An exploratory data analysis of Row Health's marketing campaign performance over
 ![rowhealth introduction slide](./images/row_health_slide1.png)
 
 ## About the Company
-Founded in 2016, Row Health is a medical insurance company serving thousands of customers throughout the United States. In 2019, they launched a new set of marketing campaign categories spanning topics like wellness tips, plan affordability, and preventative care. Customers can sign up for four plans — bronze, silver, gold, and platinum — each with different premiums and claim coverage rates.
+Founded in 2016, Row Health is a medical insurance company serving thousands of customers throughout the United States. In 2019, they launched a new set of marketing campaign categories spanning topics like wellness tips, plan affordability, and preventative care. Customers can sign up for four plans (bronze, silver, gold, and platinum) each with different premiums and claim coverage rates.
 
 Now that they've hired a new data team and are strategising their marketing budget for the year, the company would like to better understand the effectiveness of these campaign categories and how they relate to signups and subsequent patient claims.
 
