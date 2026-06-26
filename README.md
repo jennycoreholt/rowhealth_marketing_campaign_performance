@@ -1,4 +1,4 @@
-![rowhealth logo](./images/row_health_logo_lg.png)
+![rowhealth logo](./images/row_health_logo_v2.png)
 
 # Row Health Marketing Insights
 An exploratory data analysis of Row Health's marketing campaign performance over 2019–2023, uncovering insights and recommendations for marketing stakeholders to inform future campaign strategy.
