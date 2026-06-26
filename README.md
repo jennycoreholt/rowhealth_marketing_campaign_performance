@@ -1,9 +1,9 @@
-![rowhealth logo](./images/elist_logo.svg)
+![rowhealth logo](./images/row_health_logo_lg.png)
 
 # Row Health Marketing Insights
 An exploratory data analysis of Row Health's marketing campaign performance over 2019–2023, uncovering insights and recommendations for marketing stakeholders to inform future campaign strategy.
 
-![rowhealth introduction slide](./images/elist_logo.svg)
+![rowhealth introduction slide](./images/row_health_slide1.png)
 
 ## About the Company
 Founded in 2016, Row Health is a medical insurance company serving thousands of customers throughout the United States. In 2019, they launched a new set of marketing campaign categories spanning topics like wellness tips, plan affordability, and preventative care. Customers can sign up for four plans — bronze, silver, gold, and platinum — each with different premiums and claim coverage rates.
@@ -13,7 +13,7 @@ Now that they've hired a new data team and are strategising their marketing budg
 ## Data Structure
 This analysis uses Row Health's marketing data across three tables: customers, campaigns, and claims. The data contains information on customer demographics, signups, campaign types, claim categories, and claim amounts.
 
-![rowhealth data structure](./images/elist_logo.svg)
+![rowhealth data structure](./images/ERD.webp)
 
 ## Insights Summary
 
@@ -53,15 +53,13 @@ This analysis uses Row Health's marketing data across three tables: customers, c
 ## Dashboard
 An interative [Tableau Dashboard](https://public.tableau.com/views/CampaignCategoryDashboard_17822285891110/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) was built for the marketing team, enabling filtering by plan, state, and campaign type. The dashboard is segmented into key metric areas to address stakeholder questions across marketing performance, signups, and claims.
 
-![rowhealth dashboard](./images/elist_logo.svg)
+![rowhealth dashboard](./images/tableau_dashboard.png)
 
 ## Presentation Sample
 A [presentation](https://docs.google.com/presentation/d/11Cp0KcpAJcHOUhoPYogS5p-zZXZl7MRN/edit?usp=sharing&ouid=106037522742432770650&rtpof=true&sd=true) was produced for the Row Health marketing team, breaking down campaign performance insights over the four-year period with findings and recommendations.
 
-![rowhealth presentation](./images/elist_logo.svg)
+![rowhealth presentation](./images/slide_show_3.png)
 
-![rowhealth presentation](./images/elist_logo.svg)
+![rowhealth presentation](./images/slide_show_2.png)
 
-![rowhealth presentation](./images/elist_logo.svg)
-
-![rowhealth presentation](./images/elist_logo.svg)
+![rowhealth presentation](./images/slide_show_1.png)
